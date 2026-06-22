@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+html {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+html.dark {
+  background-color: #0a0f1d;
+  color: #f1f5f9;
+}
+
+body {
+  background-color: inherit;
+  color: inherit;
+}
+
+
