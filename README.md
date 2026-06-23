@@ -23,5 +23,3 @@ The platform is fully deployed and accessible via the provided live preview URL.
 
 ---
 
-### Test Credentials
-Create a new user or use mock test accounts generated via the standard registration flow.
