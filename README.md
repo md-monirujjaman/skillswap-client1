@@ -15,11 +15,5 @@ The platform is fully deployed and accessible via the provided live preview URL.
 - **Dynamic Home Page**: Real-time stats, animated transitions with Framer Motion, populated with the latest database records.
 - **Responsive Layout**: Designed specifically to adapt perfectly across mobile, tablet, and desktop viewports.
 
-## NPM Packages Used
-- **Frontend**: `react`, `react-router-dom`, `tailwindcss`, `lucide-react`, `axios`, `motion`.
-- **Backend / API**: `express`, `mongoose` (MongoDB).
-- **Security & Utilities**: `jsonwebtoken`, `bcryptjs`, `cookie-parser`, `cors`, `dotenv`.
-- **Others**: `stripe`, `vite`, `esbuild`, `typescript`.
 
----
 
